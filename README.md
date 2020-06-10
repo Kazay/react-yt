@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+> Before your start, add your Google API Key to ./src/apis/youtube.js
+> [Google APIs](https://console.developers.google.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
